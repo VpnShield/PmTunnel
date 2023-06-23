@@ -1,13 +1,13 @@
 {
-"Title": "فیلترشکن قوی و پرسرعت",
-"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Title": "فیلترشکن مخصوص اینستاگرام 😁",
+"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
 "Link": "tg://join?invite=cryQSRgPjGxmNjlk",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"ColorWave": "#A600FF",
+"Color": "#a600ff",
+"ColorWaveTwo": "#9F2BDC",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "9238501",
-"ShowTime": "3",
-"Button": " دانلود فیلترشکن پرسرعت ",
-"ButtonCancell": "  ",
+"MessageID": "00236180",
+"ShowTime": "5",
+"Button": " دانلود فیلترشکن اینستا ",
+"ButtonCancell": " ممنون ",
 "Closure": "true",
 "Show": "on"
 }
